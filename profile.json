@@ -19,9 +19,9 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi",
-    "name": "Im Zay",
-    "subtitle": "I wanna learn something usefull",
+    "greeting": "Hi, i'm",
+    "name": "zay",
+    "subtitle": "I wanna makes a better looking websites",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -30,8 +30,12 @@
         "label": "ID"
       },
       {
-        "icon": "brush",
+        "icon": "palette",
         "label": "UI/UX Designer"
+      },
+      {
+        "icon": "edit",
+        "label": "Frontend Developer"
       }
     ]
   },
@@ -141,6 +145,7 @@
         "url": "",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
