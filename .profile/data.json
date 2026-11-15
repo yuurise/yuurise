@@ -1,8 +1,8 @@
 {
- "key": "d6076d7",
+ "key": "d971afff",
  "stars": 0,
  "contributions": 6,
- "repos": 2,
+ "repos": 1,
  "followers": 0,
  "languages": [],
  "days": [
@@ -104,15 +104,6 @@
    "name": "yuurise",
    "url": "https://github.com/yuurise/yuurise",
    "text": "My GitHub profile",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "php-pemograman",
-   "url": "https://github.com/yuurise/php-pemograman",
-   "text": "",
    "fork": false,
    "stars": 0,
    "language": null,
